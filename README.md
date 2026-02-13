@@ -1,4 +1,4 @@
-# Ncmaz - Next.js headless WordPress template.
+# Faustjs Next.js headless WordPress template.
 
 
 ## For more information
